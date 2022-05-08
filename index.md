@@ -1,4 +1,8 @@
 ## Welcome to Joffrey
+**contact**
++25776515792
++25768970369
+email me: joyjoffrey@gmail.com
 
 You can use the [editor on GitHub](https://github.com/JoffreyNK/joffreynk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
