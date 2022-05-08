@@ -1,0 +1,12 @@
+body{
+    margin:65px 0px 100px 100px;
+    font-size: Arial;
+    padding: 22px;
+    border-top:  1px solid rgba(189, 185, 185, .4);
+    /* border-left: 2px solid rgb(189, 185, 185); */
+    background-color: rgb(245, 245, 245);
+}
+p{
+    margin: 0;
+    padding: 0;
+}

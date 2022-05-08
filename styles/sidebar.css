@@ -1,0 +1,49 @@
+nav {
+  display: flex;
+  position: fixed;
+  flex-direction: column;
+  top: 50px;
+  left: 0px;
+  width: 100px;
+  padding-top: 10px;
+  z-index: 100;
+  bottom: 0px;
+  background-color: white;
+  /* justify-content: space-between; */
+}
+
+.side-home,
+.explore,
+.subscriptions,
+.youtube-music,
+.originals,
+.library {
+  width: 90px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+  padding-left: 10px;
+  white-space: nowrap;
+}
+.side-home img,
+.explore img,
+.subscriptions img,
+.youtube-music img,
+.originals img,
+.library img{
+    width: 26px;
+    
+}
+.side-home:hover,
+.explore:hover,
+.subscriptions:hover,
+.youtube-music:hover,
+.originals:hover,
+.library:hover{
+    background-color: rgb(224, 224, 224);
+    cursor: pointer;
+    
+} 
